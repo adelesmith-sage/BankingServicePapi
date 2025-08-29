@@ -94,7 +94,7 @@ Contact your Sage Banking Service Enablement Lead for assistance.
 ## 📚 Resources
 
 - [Bruno Documentation](https://www.usebruno.com/docs)
-- [Sage Banking Service Documentation](https://docs.sage.com)
+- [Sage Banking Service Documentation](https://developer.sage.com/banking-service/)
 
 ---
 
