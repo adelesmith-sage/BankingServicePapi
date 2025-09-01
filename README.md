@@ -20,10 +20,11 @@ A Bruno collection for testing and integrating with the Sage Banking Service Pro
   ```
 
 ### 2. Import the Collection
-1. Open Bruno
-2. Click **Import Collection** or use `Ctrl/Cmd + I`
-3. Select the `Banking Service - Provider API.json` file
-4. The collection will appear in your workspace
+1. Unzip the `Banking Service Test - Provider API.zip` file
+2. Open Bruno
+3. Click **Open Collection** or use `Ctrl/Cmd + O`
+4. Navigate to the unzipped folder and select it
+5. The collection will appear in your workspace
 
 ### 3. Set Up Environment
 - Your enablement engineer will provide an environment file
