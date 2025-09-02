@@ -1,0 +1,59 @@
+{
+    "id": "55677130-b78a-41b0-bb56-ea6e9258eaef",
+    "name": "Sage_Playground_Bank_US Sandbox Environment",
+    "values": [
+      {
+        "key": "_preset_consumer_baseUrl",
+        "value": "https://snd01us.sagebankdrive.com/api/v1",
+        "enabled": true
+      },
+      {
+        "key": "_preset_consumer_xApplication",
+        "value": "sage.integrate.myproduct",
+        "enabled": true
+      },
+      {
+        "key": "_preset_consumer_application_signingKey",
+        "value": "16484ccc541734aa4274c80e14577348e6540ab9a7bda8063968bbd19229612f",
+        "enabled": true
+      },
+      {
+        "key": "_preset_consumer_bankId",
+        "value": "3993ba12-039d-43a5-a5ae-1493e5ac1ff8",
+        "enabled": true
+      },
+      {
+        "key": "_preset_provider_baseUrl",
+        "value": "https://papi-snd01-us-east-1.sagebanking-sandbox.cloud",
+        "enabled": true
+      },
+      {
+        "key": "_preset_provider_apiKey",
+        "value": "r9TiqJUorsauBkCq2LXOwKVscn65iVa4JWPdchGc",
+        "enabled": true
+      },
+      {
+        "key": "_preset_cloudId_baseUrl",
+        "value": "https://id-shadow.sage.com",
+        "enabled": true
+      },
+      {
+        "key": "_preset_cloudId_clientId",
+        "value": "WyXH2PNjY7QPO9ZBqsnGEG2rYXDG00TA",
+        "enabled": true
+      },
+      {
+        "key": "_preset_cloudId_clientSecret",
+        "value": "S2VvY_kEpMshlmL-QDq1srBuFBOBwPBMeF_UhU072B8waZUhL6AIKRLdOey-S87H",
+        "enabled": true
+      },
+      {
+        "key": "_preset_cloudId_audience",
+        "value": "sfdsbanking/sfdsBankingProvider-Pre",
+        "enabled": true
+      }
+    ],
+    "_postman_variable_scope": "environment",
+    "_postman_exported_at": "2025-04-08T00:00:00.000Z",
+    "_postman_exported_using": "Postman/11.40.1"
+  }
