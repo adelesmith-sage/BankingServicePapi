@@ -96,7 +96,7 @@ Contact your Sage Banking Service Enablement Lead for assistance.
 
 - [Bruno Documentation](https://www.usebruno.com/docs)
 - [Sage Banking Service Documentation](https://developer.sage.com/banking-service/)
-
+- Onboarding and posting statements https://jam.dev/c/3a787fd2-59e9-4a52-8130-8826f2405be4 
 ---
 
 **Note**: This collection is for testing and development. Use appropriate test environments before production.
