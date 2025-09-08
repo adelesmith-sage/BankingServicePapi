@@ -1,0 +1,13 @@
+type: "env"
+name: "Sage_Playground_Bank_US Sandbox Environment"
+data:
+_preset_consumer_baseUrl: "https://snd01us.sagebankdrive.com/api/v1"
+_preset_consumer_xApplication: "sage.integrate.myproduct"
+_preset_consumer_application_signingKey: "16484ccc541734aa4274c80e14577348e6540ab9a7bda8063968bbd19229612f"
+_preset_consumer_bankId: "3993ba12-039d-43a5-a5ae-1493e5ac1ff8"
+_preset_provider_baseUrl: "https://papi-snd01-us-east-1.sagebanking-sandbox.cloud"
+_preset_provider_apiKey: "r9TiqJUorsauBkCq2LXOwKVscn65iVa4JWPdchGc"
+_preset_cloudId_baseUrl: "https://id-shadow.sage.com"
+_preset_cloudId_clientId: "WyXH2PNjY7QPO9ZBqsnGEG2rYXDG00TA"
+_preset_cloudId_clientSecret: "S2VvY_kEpMshlmL-QDq1srBuFBOBwPBMeF_UhU072B8waZUhL6AIKRLdOey-S87H"
+_preset_cloudId_audience: "sfdsbanking/sfdsBankingProvider-Pre"
